@@ -1,0 +1,7 @@
+{
+    "displayName":"PowerPoint Theme",
+    "description":"Microsoft PowerPoint Theme for Visual Studio Code",
+
+    "PowerPointDark":"PowerPoint Theme (Dark)",
+    "PowerPointLight":"PowerPoint Theme (Light)"
+}
