@@ -27,19 +27,19 @@
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.foreground": "#FFFFFF",
 		"editorWhitespace.foreground": "#C4C4C4",
-		"editor.selectionBackground": "#ADD6FF20",
 		"minimap.selectionHighlight": "#c23f25",
 		"editorLineNumber.foreground": "#C4C4C4",
 		"editorLineNumber.activeForeground": "#c23f25",
 		"editorWidget.background": "#141414",
-		"editorHoverWidget.background": "#454545",
 		"editorSuggestWidget.background": "#000",
 		"editorSuggestWidget.border": "#000",
 		"editor.lineHighlightBackground": "#1F1F1F",
 		"editor.lineHighlightBorder": "#FFFFFF80",
-		"editor.hoverHighlightBackground": "#656565",
-		"editor.selectionHighlightBackground": "#656565",
-		"editorLink.activeForeground": "#c23f25",
+		"editorHoverWidget.background": "#c23f25", // Hover Background #454545
+		"editor.hoverHighlightBackground": "#c23f25", // HOVER BG #656565
+		"editorLink.activeForeground": "#0597dd", //link color
+		"editor.selectionBackground": "#c23f2580", // Selection #ADD6FF20
+		"editor.selectionHighlightBackground": "#65656580", // SELECTION BG #656565
 		"peekViewTitle.background": "#c23f25",
 		"peekView.border": "#000",
 		"peekViewResult.background": "#141414",
